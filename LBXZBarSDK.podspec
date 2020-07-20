@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
        "iphone/*.m"
     s.ios.frameworks = 'Foundation','AVFoundation','CoreGraphics','CoreMedia','CoreVideo','QuartzCore'
     s.library   = "iconv"
-    s.public_header_files = "iphone/**/**/*.h","include/*.h"
+    s.public_header_files = "iphone/**/**/*.h","include/*.h","LBXZBarWrapper.h"
     s.requires_arc = false
     s.compiler_flags = '-w'
     s.xcconfig = {
