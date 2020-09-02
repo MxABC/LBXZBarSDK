@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = 'LBXZBarSDK'
-    s.version      = '1.3.4'
+    s.version      = '1.3.5'
     s.summary      = 'LBXZBarSDK'
     s.homepage     = 'https://github.com/MxABC/LBXZBarSDK'
     s.license      = 'MIT'
